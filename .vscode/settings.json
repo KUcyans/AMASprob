@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    },
+    "python.analysis.extraPaths": [
+        "./External_Functions"
+    ]
+}

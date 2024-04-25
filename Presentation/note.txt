@@ -1,0 +1,14 @@
+GPR 
+	- hard to introduce
+	- characteristic : use of kernel function, 
+	- good at finding stochastic behaviour(?)
+	- 
+--------------------------------------------
+HMC, NUTS
+	- 2min easy to introduce with MCMC problem
+	- 2min HMC with problem
+	- 2min NUTS(a special version of HMC)
+	- 2min comparison / application? Efficiency? / 
+	- 2min ??
+	- 
+
